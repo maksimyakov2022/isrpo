@@ -1,3 +1,7 @@
 Andrej
+<<<<<<< HEAD
 Semen
+=======
+Kolya
+>>>>>>> new
 Carl
